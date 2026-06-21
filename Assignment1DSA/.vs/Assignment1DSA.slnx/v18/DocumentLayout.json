@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Naitik\\OneDrive\\Desktop\\A1\\Assignment1DSA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78DBDBE1-E83C-4699-8745-88D9B443F82E}|Assignment1DSA\\Assignment1DSA.vcxproj|C:\\Users\\Naitik\\OneDrive\\Desktop\\A1\\Assignment1DSA\\Assignment1DSA\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{78DBDBE1-E83C-4699-8745-88D9B443F82E}|Assignment1DSA\\Assignment1DSA.vcxproj|solutionrelative:Assignment1DSA\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{78DBDBE1-E83C-4699-8745-88D9B443F82E}|Assignment1DSA\\Assignment1DSA.vcxproj|C:\\Users\\Naitik\\OneDrive\\Desktop\\A1\\Assignment1DSA\\Assignment1DSA\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{78DBDBE1-E83C-4699-8745-88D9B443F82E}|Assignment1DSA\\Assignment1DSA.vcxproj|solutionrelative:Assignment1DSA\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DBDBE1-E83C-4699-8745-88D9B443F82E}|Assignment1DSA\\Assignment1DSA.vcxproj|C:\\Users\\Naitik\\OneDrive\\Desktop\\A1\\Assignment1DSA\\Assignment1DSA\\queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78DBDBE1-E83C-4699-8745-88D9B443F82E}|Assignment1DSA\\Assignment1DSA.vcxproj|solutionrelative:Assignment1DSA\\queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78DBDBE1-E83C-4699-8745-88D9B443F82E}|Assignment1DSA\\Assignment1DSA.vcxproj|C:\\Users\\Naitik\\OneDrive\\Desktop\\A1\\Assignment1DSA\\Assignment1DSA\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78DBDBE1-E83C-4699-8745-88D9B443F82E}|Assignment1DSA\\Assignment1DSA.vcxproj|solutionrelative:Assignment1DSA\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,6 +24,19 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 27,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "queue.c",
+              "DocumentMoniker": "C:\\Users\\Naitik\\OneDrive\\Desktop\\A1\\Assignment1DSA\\Assignment1DSA\\queue.c",
+              "RelativeDocumentMoniker": "Assignment1DSA\\queue.c",
+              "ToolTip": "C:\\Users\\Naitik\\OneDrive\\Desktop\\A1\\Assignment1DSA\\Assignment1DSA\\queue.c",
+              "RelativeToolTip": "Assignment1DSA\\queue.c",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAgwJoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-21T03:44:56.575Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -126,20 +143,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\Naitik\\OneDrive\\Desktop\\A1\\Assignment1DSA\\Assignment1DSA\\main.c",
               "RelativeDocumentMoniker": "Assignment1DSA\\main.c",
               "ToolTip": "C:\\Users\\Naitik\\OneDrive\\Desktop\\A1\\Assignment1DSA\\Assignment1DSA\\main.c",
               "RelativeToolTip": "Assignment1DSA\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-06-21T03:47:55.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "queue.h",
               "DocumentMoniker": "C:\\Users\\Naitik\\OneDrive\\Desktop\\A1\\Assignment1DSA\\Assignment1DSA\\queue.h",
               "RelativeDocumentMoniker": "Assignment1DSA\\queue.h",
